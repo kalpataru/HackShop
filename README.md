@@ -1,7 +1,7 @@
 HackShop
 ========
 
-This is a google chrome extension. This hack enables the user to get prices and reviews of a product inline( then and there ) with the help of just a RIGHT CLICK which gives a rich visual comparison experience.
+This is a google chrome extension using google search API. This hack enables the user to get prices and reviews of a product inline( then and there ) with the help of just a RIGHT CLICK which gives a rich visual comparison experience.
 Also user can mail that feedback as a recommendation to his friends or relatives.
 
 Description
