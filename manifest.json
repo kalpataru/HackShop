@@ -1,0 +1,17 @@
+{
+
+  "manifest_version": 2,
+	
+  "name": "demo",
+  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "version": "1.0",
+   "background": {
+    "scripts": ["mail.js"]
+  },
+  "icons": {
+      
+      "128": "compare.jpg"
+   },
+  
+ "permissions": [ "contextMenus", "tabs","http://localhost/" ]
+}
